@@ -32,6 +32,7 @@ Learning Repository.
 `CREATE DATABASE Todo` #It creates a datbase named Todo
 
 <h2> CREATE Table </h2>
+
 ```
 create table Account(
 ID serial PRIMARY KEY,
