@@ -2,8 +2,9 @@
 Learning Repository.
 <h1>For Ubuntu machine</h1>
 <h2> Connect to Postgres using psql </h2>
+
 `psql` #will connect to the dafault user and database present in postgres.
-</br>
+
 <div>
 	<img src='images/psql.png' align="middle">
 </div>
